@@ -1,4 +1,4 @@
-# raildatamarketplace
+# rail-data-marketplace
 The Rail Data Marketplace will bring together fragmented sources of rail data into an easy-to-use digital service. The service will provide the tools and frameworks to simplify data sharing between data consumers and the rail industry, opening data up to innovators to develop new tools and services for the industry and its passengers.
 https://www.raildeliverygroup.com/our-services/rail-data/rail-data-marketplace.html
 
