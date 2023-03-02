@@ -1,5 +1,5 @@
-# rail-data-marketplace
-The RDG Rail Data Marketplace will bring together fragmented sources of rail data into an easy-to-use digital service. The service will provide the tools and frameworks to simplify data sharing between data consumers and the rail industry, opening data up to innovators to develop new tools and services for the industry and its passengers.
-https://www.raildeliverygroup.com/our-services/rail-data/rail-data-marketplace.html
-
-The Rail Data Marketplace will deliver a new way of sharing data between consumers – including app developers, tech firms, academia – and the rail industry. New data sharing opportunities will drive innovation, leading to the development of innovative passenger-facing applications, operational efficiencies and improved transparency. 
+# Axure Prototype
+This prototype code was developed by the Rail Data Marketplace (RDM) project team and is made available under the Open Government Licence  
+You must therefore:
+acknowledge the source of the Information in your product or application by including or linking to any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence
+https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
